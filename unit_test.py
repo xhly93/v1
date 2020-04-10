@@ -19,7 +19,7 @@ class Test_py(unittest.TestCase):
         pass
 
     def test_02(self):
-        print('002')
+        print('aaaa')
         aa
         pass
 
