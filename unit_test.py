@@ -15,7 +15,7 @@ class Test_py(unittest.TestCase):
 
 
     def test_01(self):
-        print('001')
+        print('3333333')
         pass
 
     def test_02(self):
