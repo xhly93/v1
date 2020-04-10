@@ -5,7 +5,7 @@ import pytest
 
 class Test_py(unittest.TestCase):
     def setUp(self):
-        print('setUp')
+        print('sssss')
         pass
 
     def tearDown(self):
